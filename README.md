@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My name is Epsilon, and I'm out here looking to improve myself and start a career in coding, either full stack or front-end.
+### My name is Epsilon, and I'm out here looking to improve myself and start a career in coding, either full stack or front-end.
 
 I have a background in computer science, with a degree from Aarhus university. I have previously studied biology, and thus have a great foundation in solving problems in the interface between the two subjects.
 
