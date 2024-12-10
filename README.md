@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My name is Epsilon, and I'm out here looking to improve myself and start a career in coding, either full stack or front-end.
+
+I have a background in computer science, with a degree from Aarhus university. I have previously studied biology, and thus have a great foundation in solving problems in the interface between the two subjects.
+
+- 🔭 I’m currently working on a website managing turn order, hidden rolls, music, and resources for GM's during pen & paper role-playing.
+- 🌱 I’m currently learning front end web development.
+- 📫 How to reach me: epsijes@gmail.com
+- 😄 Pronouns: Any gender neutral, but mostly they/them (de/dem in Danish).
+- ⚡ Fun fact: Orcas are known to attack elk when they swim across the ocean.
